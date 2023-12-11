@@ -1,7 +1,13 @@
 # Laboratorio 09 Aplicaciones Web
 Introducción a Express
 ## Integrantes
-### Jared Valenzuela - Joseph Yépez - Alejandro Moreira - Heyer Tinoco - Juan Falconi - Juan Gualotuña - Miguel Paredes
+* Jared Valenzuela
+* Joseph Yépez
+* Alejandro Moreira
+* Heyer Tinoco
+* Juan Falconi
+* Juan Gualotuña
+* Miguel Paredes
 
 # Página de inicio
 ## Web Server
@@ -16,4 +22,3 @@ https://laboratorio-9-8t3f.onrender.com/ <br>
 
 # Página de productos
 ![imagen](https://github.com/Miguel-Paredes/Paredes-Miguel-Laboratorio-9/assets/117743367/d8c2fa7b-2012-4f74-94fa-7f1210ae67fa)
-# Web_Lab9
